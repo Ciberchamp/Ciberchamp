@@ -1,26 +1,28 @@
-# Hi there, I'm Usha! 👋
+Hello there, I'm Usha! 👋
 
-Welcome to my GitHub profile! I'm currently pursuing my **Master of Computer Applications (MCA)** at **St. Joseph's University, Bangalore**. I am passionate about learning, building projects, and solving real-world problems through technology.
+Welcome to my GitHub profile! I’m currently pursuing my Master of Computer Applications (MCA) at St. Joseph's University, Bangalore. I love building projects that combine AI/ML, full-stack development, and problem solving to create real-world impact.
 
----
+🌟 About Me
 
-## 🌟 About Me
+🎓 Education: MCA | St. Joseph's University, Bangalore
 
-- 🎓 **Education**: MCA | St. Joseph's University, Bangalore  
-- 💻 **Interests**: Full stack Development, Java Programming, Artificial Intelligence, and Databases
-- 📚 **Skills**:  
-  - Programming Languages: Java, PHP, SQL, Python, C, C++, C#  
-  - Web Technologies: HTML, CSS, JavaScript, J2EE, Bootstrap  
-  - Tools: Eclipse EE, Visual Studio Code, Git   
+💻 Interests: Artificial Intelligence, Machine Learning, Full-Stack Development, Databases, IOT
 
----
+📚 Skills:
 
+Programming: Python, Java, C++, C, PHP, SQL, C#
 
-## 📫 Socials
+AI/ML: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
 
-- LinkedIn: https://www.linkedin.com/in/usha-vinod-kumar-5b4923328/
-- Email: ushavink0812@gmail.com
+Web Development: HTML, CSS, JavaScript, React.js, Bootstrap, Streamlit, J2EE
 
-Feel free to explore my repositories and reach out for collaboration or any exciting opportunities! 😊
+Tools & Platforms: Git/GitHub, Eclipse, VS Code, MongoDB
 
 
+📫 Socials
+
+🔗 LinkedIn
+
+📧 Email: ushavink0812@gmail.com
+
+💡 Always open to collaboration, internships, and exciting AI/ML projects!
