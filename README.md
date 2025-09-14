@@ -9,11 +9,10 @@ Welcome to my GitHub profile! I’m currently pursuing my Master of Computer App
 
 📚 Skills:
 
-Programming: Python, Java, C++, C, PHP, SQL, C#
-AI/ML: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
-Web Development: HTML, CSS, JavaScript, React.js, Bootstrap, Streamlit, J2EE
-Tools & Platforms: Git/GitHub, Eclipse, VS Code, MongoDB
-
+* Programming: Python, Java, C++, C, PHP, SQL, C#
+* AI/ML: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
+* Web Development: HTML, CSS, JavaScript, React.js, Bootstrap, Streamlit, J2EE
+* Tools & Platforms: Git/GitHub, Eclipse, VS Code, MongoDB
 
 📫 Socials
 
