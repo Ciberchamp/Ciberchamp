@@ -5,24 +5,19 @@ Welcome to my GitHub profile! I’m currently pursuing my Master of Computer App
 🌟 About Me
 
 🎓 Education: MCA | St. Joseph's University, Bangalore
-
 💻 Interests: Artificial Intelligence, Machine Learning, Full-Stack Development, Databases, IOT
 
 📚 Skills:
 
 Programming: Python, Java, C++, C, PHP, SQL, C#
-
 AI/ML: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
-
 Web Development: HTML, CSS, JavaScript, React.js, Bootstrap, Streamlit, J2EE
-
 Tools & Platforms: Git/GitHub, Eclipse, VS Code, MongoDB
 
 
 📫 Socials
 
 🔗 LinkedIn
-
 📧 Email: ushavink0812@gmail.com
 
 💡 Always open to collaboration, internships, and exciting AI/ML projects!
