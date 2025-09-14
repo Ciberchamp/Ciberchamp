@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m currently pursuing my Master of Computer App
 
 📫 Socials
 
-🔗 LinkedIn
+🔗 LinkedIn; https://www.linkedin.com/in/usha-vinod-kumar-5b4923328/
 📧 Email: ushavink0812@gmail.com
 
 💡 Always open to collaboration, internships, and exciting AI/ML projects!
